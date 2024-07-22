@@ -1,7 +1,6 @@
-# Hi, I'm Chia
+## Hi, I'm Chia
 
-
-## Master's Student in Communication Engineering 📡
+**Master's Student in Communication Engineering 📡**
 
 
 
