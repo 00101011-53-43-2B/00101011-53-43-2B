@@ -1,4 +1,4 @@
-## Chia#00101011-53-43-2B
+## Chia
 
 
 ## Master's Student in Communication Engineering 📡
