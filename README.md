@@ -2,7 +2,7 @@
 
 **Master's Student in Communication Engineering 📡**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/animated_wave.svg" alt="Signal Wave Animation" />
+  <img src="https://raw.githubusercontent.com/00101011-53-43-2B/Breadcrumbs00101011-53-43-2B/main/svg.svg" alt="Signal Wave Animation" />
 </p>
 
 
