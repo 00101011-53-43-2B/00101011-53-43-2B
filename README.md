@@ -3,8 +3,7 @@
 
 ### Master's Student in Communication Engineering 📡
 
-
-<hr style="border:0,1 px solid gray"/>
+<hr style="border:0.5px solid gray"/>
 
 ### Social 🌐
 <p align="left">
@@ -14,13 +13,11 @@
 </p>
 
 
-<hr style="border:0,1 px solid gray"/>
+<hr style="border:0.5px solid gray"/>
 
 ### Projects 📚
 
-
-
-<hr style="border:1px solid gray"/>
+<hr style="border:0.5px solid gray"/>
 
 ### Skills 🚀
 <p align="left">
@@ -42,4 +39,4 @@
 - ⚡ **Database and Containers** : Knowledgable in SQLite and PostgreSQL for database management, and Docker for containerisation and deployment of applications.
 - ⚡ **Scientific Computing** : Skilled in using NumPy for scientific and numerical computing in Python.
 
-<hr style="border:1px solid gray"/>
+<hr style="border:0.5px solid gray"/>
