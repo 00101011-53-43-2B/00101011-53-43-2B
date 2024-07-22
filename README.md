@@ -1,12 +1,11 @@
-## Hi, I'm Chia
+# Hi, I'm Chia
 
 
-### Master's Student in Communication Engineering 📡
-
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/wcAAwAB/eq7XCkAAAAASUVORK5CYII=" style="width:100%; height:1px;">
+## Master's Student in Communication Engineering 📡
 
 
-### Social 🌐
+
+## Social 🌐
 <p align="left">
   <a href="https://github.com/yourusername" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" />
@@ -16,11 +15,11 @@
 
 
 
-### Projects 📚
+## Projects 📚
 
 
 
-### Skills 🚀
+## Skills 🚀
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40" width="40" />
