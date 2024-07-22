@@ -4,7 +4,7 @@
 ### Master's Student in Communication Engineering 📡
 
 
-<hr style="border:1px solid gray"/>
+<hr style="border:0,1 px solid gray"/>
 
 ### Social 🌐
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 
-<hr style="border:1px solid gray"/>
+<hr style="border:0,1 px solid gray"/>
 
 ### Projects 📚
 
