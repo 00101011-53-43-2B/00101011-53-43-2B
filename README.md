@@ -26,5 +26,5 @@
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="40" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="40" width="40" style="filter: brightness(0) invert(1);" />
+  <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" alt="NumPy" height="40" width="40" style="filter: brightness(0) invert(1);" />
 </p>
