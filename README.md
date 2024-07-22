@@ -1,7 +1,7 @@
 ## Chia#00101011-53-43-2B
 
 
-## Master's Student in Communication Engineering📡
+## Master's Student in Communication Engineering 📡
 
 
 
@@ -14,7 +14,10 @@
 </p>
 
 
+
+
 ### Projects 📚
+
 
 
 
@@ -29,5 +32,11 @@
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="40" width="40" />
-  <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" alt="NumPy" height="40" width="40" style="filter: brightness(0) invert(1);" />
+  <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" alt="NumPy" height="40" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Procreate-icon.png" alt="Procreate" height="40" width="40" />
 </p>
+
+⚡ **Programming Languages** : Profficient in C, C++, and Python for high-performance and system-level programming.
+⚡ **Software and Tools** : Extensive experience with MATLAB for numerical computing and signal processing, LabVIEW for software design radio, instrument control, and Wireshark for network protocol analysis.
+⚡ **Database and Containers** : Knowledgable in SQLite and PostgreSQL for database management, and Docker for containerisation and deployment of applications.
+⚡ **Scientific Computing** : Skilled in using NumPy for scientific and numerical computing in Python. 
