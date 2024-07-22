@@ -1,7 +1,10 @@
-# Chia#00101011-53-43-2B
+## Chia#00101011-53-43-2B
+
+
 ## Master's Student in Communication Engineering📡
 
-----
+
+
 
 ### Social 🌐
 <p align="left">
@@ -10,11 +13,11 @@
   </a>
 </p>
 
-----
+
 ### Projects 📚
 
 
-----
+
 ### Skills 🚀
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40" width="40" />
