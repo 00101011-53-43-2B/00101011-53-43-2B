@@ -22,8 +22,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="Wireshark" height="40" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" alt="LabVIEW" height="40" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" height="40" width="40" />
+  <img src="https://iconduck.com/icons/94225/docker-icon" alt="Docker" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="40" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ngspice-logo.svg" alt="SPICE" height="40" width="40" />
 </p>
