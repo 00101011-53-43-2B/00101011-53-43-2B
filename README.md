@@ -23,6 +23,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="Wireshark" height="40" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" alt="LabVIEW" height="40" width="40" />
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="40" width="40" />
-  <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" height="40" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="40" width="40" />
 </p>
