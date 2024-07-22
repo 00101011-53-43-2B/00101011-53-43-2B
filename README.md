@@ -1,7 +1,9 @@
 ## Hi, I'm Chia
 
 **Master's Student in Communication Engineering 📡**
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/animated_wave.svg" alt="Signal Wave Animation" />
+</p>
 
 
 ## Social 🌐
