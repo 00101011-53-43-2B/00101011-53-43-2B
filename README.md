@@ -1,10 +1,10 @@
 ## Hi, I'm Chia
 
 
-## Master's Student in Communication Engineering 📡
+### Master's Student in Communication Engineering 📡
 
 
-
+--
 
 ### Social 🌐
 <p align="left">
@@ -14,12 +14,13 @@
 </p>
 
 
-
+--
 
 ### Projects 📚
 
 
 
+--
 
 ### Skills 🚀
 <p align="left">
@@ -39,4 +40,6 @@
 - ⚡ **Programming Languages** : Profficient in C, C++, and Python for high-performance and system-level programming.
 - ⚡ **Software and Tools** : Extensive experience with MATLAB for numerical computing and signal processing, LabVIEW for software design radio, instrument control, and Wireshark for network protocol analysis.
 - ⚡ **Database and Containers** : Knowledgable in SQLite and PostgreSQL for database management, and Docker for containerisation and deployment of applications.
-- ⚡ **Scientific Computing** : Skilled in using NumPy for scientific and numerical computing in Python. 
+- ⚡ **Scientific Computing** : Skilled in using NumPy for scientific and numerical computing in Python.
+
+--
