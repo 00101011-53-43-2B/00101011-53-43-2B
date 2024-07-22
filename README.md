@@ -2,21 +2,6 @@
 
 **Master's Student in Communication Engineering 📡**
 
-<p align="center">
-  <svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
-    <path id="wave" d="M 0 50 Q 25 0, 50 50 T 100 50 T 150 50 T 200 50 T 250 50 T 300 50 T 350 50 T 400 50 T 450 50 T 500 50" fill="transparent" stroke="blue" stroke-width="2"/>
-    <text font-size="20" fill="black">
-      <textPath href="#wave">
-        Hi, I am Clare
-      </textPath>
-    </text>
-    <animate xlink:href="#wave" attributeName="d" values="
-      M 0 50 Q 25 0, 50 50 T 100 50 T 150 50 T 200 50 T 250 50 T 300 50 T 350 50 T 400 50 T 450 50 T 500 50;
-      M 0 50 Q 25 100, 50 50 T 100 50 T 150 50 T 200 50 T 250 50 T 300 50 T 350 50 T 400 50 T 450 50 T 500 50;
-      M 0 50 Q 25 0, 50 50 T 100 50 T 150 50 T 200 50 T 250 50 T 300 50 T 350 50 T 400 50 T 450 50 T 500 50" 
-      dur="4s" repeatCount="indefinite"/>
-  </svg>
-</p>
 
 ## Social 🌐
 <p align="left">
