@@ -19,11 +19,12 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/matlab.svg" alt="MATLAB" height="40" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="40" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.png" alt="Wireshark" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/labview.svg" alt="LabVIEW" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wireshark.svg" alt="Wireshark" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="Docker" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg" alt="SQLite" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="PostgreSQL" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoffice.svg" alt="Microsoft Office" height="40" width="40" />
 </p>
+
