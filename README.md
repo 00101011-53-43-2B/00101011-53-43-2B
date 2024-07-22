@@ -3,17 +3,18 @@
 **Master's Student in Communication Engineering 📡**
 
 <p align="center">
-  <svg width="100%" height="200px" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
-    <path id="wavePath" fill="none" stroke="blue" stroke-width="2" d="M0,100 C150,150 350,50 500,100 C650,150 850,50 1000,100" />
-    <text font-size="30" fill="black">
-      <textPath href="#wavePath" startOffset="0%">
-        Hi, I am Chia
+  <svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+    <path id="wave" d="M 0 50 Q 25 0, 50 50 T 100 50 T 150 50 T 200 50 T 250 50 T 300 50 T 350 50 T 400 50 T 450 50 T 500 50" fill="transparent" stroke="blue" stroke-width="2"/>
+    <text font-size="20" fill="black">
+      <textPath href="#wave">
+        Hi, I am Clare
       </textPath>
     </text>
-    <animate xlink:href="#wavePath" attributeName="d" 
-      from="M0,100 C150,150 350,50 500,100 C650,150 850,50 1000,100" 
-      to="M0,100 C150,50 350,150 500,100 C650,50 850,150 1000,100" 
-      dur="2s" repeatCount="indefinite" />
+    <animate xlink:href="#wave" attributeName="d" values="
+      M 0 50 Q 25 0, 50 50 T 100 50 T 150 50 T 200 50 T 250 50 T 300 50 T 350 50 T 400 50 T 450 50 T 500 50;
+      M 0 50 Q 25 100, 50 50 T 100 50 T 150 50 T 200 50 T 250 50 T 300 50 T 350 50 T 400 50 T 450 50 T 500 50;
+      M 0 50 Q 25 0, 50 50 T 100 50 T 150 50 T 200 50 T 250 50 T 300 50 T 350 50 T 400 50 T 450 50 T 500 50" 
+      dur="4s" repeatCount="indefinite"/>
   </svg>
 </p>
 
