@@ -36,7 +36,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Procreate-icon.png" alt="Procreate" height="40" width="40" />
 </p>
 
-⚡ **Programming Languages** : Profficient in C, C++, and Python for high-performance and system-level programming.
-⚡ **Software and Tools** : Extensive experience with MATLAB for numerical computing and signal processing, LabVIEW for software design radio, instrument control, and Wireshark for network protocol analysis.
-⚡ **Database and Containers** : Knowledgable in SQLite and PostgreSQL for database management, and Docker for containerisation and deployment of applications.
-⚡ **Scientific Computing** : Skilled in using NumPy for scientific and numerical computing in Python. 
+- ⚡ **Programming Languages** : Profficient in C, C++, and Python for high-performance and system-level programming.
+- ⚡ **Software and Tools** : Extensive experience with MATLAB for numerical computing and signal processing, LabVIEW for software design radio, instrument control, and Wireshark for network protocol analysis.
+- ⚡ **Database and Containers** : Knowledgable in SQLite and PostgreSQL for database management, and Docker for containerisation and deployment of applications.
+- ⚡ **Scientific Computing** : Skilled in using NumPy for scientific and numerical computing in Python. 
