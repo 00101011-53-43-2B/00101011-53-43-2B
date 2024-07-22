@@ -1,9 +1,18 @@
 ## Hi, I'm Chia
 
 **Master's Student in Communication Engineering 📡**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/00101011-53-43-2B/Breadcrumbs00101011-53-43-2B/main/svg.svg" alt="Signal Wave Animation" />
-</p>
+<svg width="100%" height="200px" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <path id="wavePath" fill="none" stroke="blue" stroke-width="2" d="M0,100 C150,150 350,50 500,100 C650,150 850,50 1000,100" />
+  <text font-size="30" fill="black">
+    <textPath href="#wavePath" startOffset="0%">
+      Hi, I am Clare
+    </textPath>
+  </text>
+  <animate xlink:href="#wavePath" attributeName="d" 
+    from="M0,100 C150,150 350,50 500,100 C650,150 850,50 1000,100" 
+    to="M0,100 C150,50 350,150 500,100 C650,50 850,150 1000,100" 
+    dur="2s" repeatCount="indefinite" />
+</svg>
 
 
 ## Social 🌐
