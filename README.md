@@ -1,4 +1,4 @@
-## Chia
+## Hi, I'm Chia
 
 
 ## Master's Student in Communication Engineering 📡
