@@ -56,11 +56,13 @@ I am passionate about developing innovative solutions in the field of communicat
 </p>
 
 ## Languages 📓
-- Mandarin: Native proficiency
-- English: Full professional proficiency
-- German: Limited working proficiency
+- **Mandarin:** Native proficiency
+- **English:** Full professional proficiency
+- **German:** Limited working proficiency
 
 ## Get in Touch 📫
+- **Email:** [chialeecc@gmail.com](mailto:chialeecc@gmail.com)
+- **GitHub:** [github.com/00101011-53-43-2B](https://github.com/00101011-53-43-2B)
 Feel free to reach out if you have any questions or just want to connect!
 
 
