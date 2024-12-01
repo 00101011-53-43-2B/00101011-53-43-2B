@@ -18,6 +18,7 @@ I am passionate about developing innovative solutions in the field of communicat
 
 
 ## Skills 🚀
+# Programming Languages :
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
@@ -26,6 +27,8 @@ I am passionate about developing innovative solutions in the field of communicat
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white" alt="MATLAB" />
 </p>
+
+# Software & Tools :
 <p align="left">
   <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=labview&logoColor=black" alt="LabVIEW" />
   <img src="https://img.shields.io/badge/SPICE-8F1D21?style=flat-square&logo=spice&logoColor=white" alt="SPICE" />
@@ -37,22 +40,26 @@ I am passionate about developing innovative solutions in the field of communicat
   <img src="https://img.shields.io/badge/GNS3-007ACC?style=flat-square&logo=gns3&logoColor=white" alt="GNS3" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
 </p>
+
+# Database & Containers :
 <p align="left">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
+# Scientific Computing :
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
 ## Languages 🌱
-	•	Mandarin: Native proficiency
-	•	English: Full professional proficiency
-	•	German: Limited working proficiency
+- Mandarin: Native proficiency
+- English: Full professional proficiency
+- German: Limited working proficiency
 
 ## Get in Touch 📫
-Feel free to reach out if you’re interested in collaboration or just want to connect!
+Feel free to reach out if you have any questions or just want to connect!
 
 
