@@ -63,6 +63,7 @@ I am passionate about developing innovative solutions in the field of communicat
 ## Get in Touch 📫
 - **Email:** [chialeecc@gmail.com](mailto:chialeecc@gmail.com)
 - **GitHub:** [github.com/00101011-53-43-2B](https://github.com/00101011-53-43-2B)
+</p>
 Feel free to reach out if you have any questions or just want to connect!
 
 
