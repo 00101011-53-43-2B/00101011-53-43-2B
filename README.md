@@ -4,15 +4,6 @@
 </p>
 I am passionate about developing innovative solutions in the field of communication engineering, with a strong background in signal processing, satellite communications, and network analysis.
 
-## Social 🌐
-<p align="left">
-  <a href="https://github.com/yourusername" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" />
-  </a>
-</p>
-
-
-
 
 ## Projects 📚
 
@@ -55,7 +46,7 @@ I am passionate about developing innovative solutions in the field of communicat
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
-## Languages 📓
+## Languages 🌐
 - **Mandarin:** Native proficiency
 - **English:** Full professional proficiency
 - **German:** Limited working proficiency
