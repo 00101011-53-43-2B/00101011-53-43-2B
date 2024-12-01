@@ -1,6 +1,7 @@
 ## Hi, I'm Chia
 
 **Master's Student in Communication Engineering 📡**
+</p>
 I am passionate about developing innovative solutions in the field of communication engineering, with a strong background in signal processing, satellite communications, and network analysis.
 
 ## Social 🌐
