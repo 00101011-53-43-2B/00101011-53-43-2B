@@ -54,7 +54,7 @@ I am passionate about developing innovative solutions in the field of communicat
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
-## Languages 🌱
+## Languages 📓
 - Mandarin: Native proficiency
 - English: Full professional proficiency
 - German: Limited working proficiency
