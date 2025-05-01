@@ -1,57 +1,88 @@
-## Hi, I'm Chia
+<!-- ---------- HERO ---------- -->
 
-**Master's Student in Communication Engineering 📡**
-</p>
-I am passionate about developing innovative solutions in the field of communication engineering, with a strong background in signal processing, satellite communications, and network analysis.
+<h1 align="center"> Hi, I’m Chia</h1>
+<h3 align="center"> Telecommunications and Cybersecurity Engineer | M.Sc. (E.E.)</h3>
 
-
-## Projects 📚
-
-
-
-## Skills 🚀
-#### Programming Languages :
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white" alt="MATLAB" />
-</p>
-
-#### Software & Tools :
-<p align="left">
-  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=labview&logoColor=black" alt="LabVIEW" />
-  <img src="https://img.shields.io/badge/SPICE-8F1D21?style=flat-square&logo=spice&logoColor=white" alt="SPICE" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/IDA%20Pro-5C2D91?style=flat-square&logo=ida-pro&logoColor=white" alt="IDA Pro" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/ns--3-FF6C00?style=flat-square&logo=ns3&logoColor=white" alt="ns-3" />
-  <img src="https://img.shields.io/badge/GNS3-007ACC?style=flat-square&logo=gns3&logoColor=white" alt="GNS3" />
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
+<p align="center">
+  <!-- English résumé -->
+  <a href="./ChiaLee_resume.pdf" target="_blank" style="margin-right: 10px;">
+    <img
+      src="https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white&style=flat-square"
+      alt="Download résumé"
+    />
+  </a>
+  <!-- German Lebenslauf -->
+  <a href="./ChiaLee_Lebenslauf.pdf" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Lebenslauf-PDF-blue?logo=adobeacrobatreader&logoColor=white&style=flat-square"
+      alt="Download Lebenslauf"
+    />
+  </a>
 </p>
 
-#### Database & Containers :
-<p align="left">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+---
+
+### About Me 💫
+> M.Sc. in Electrical & Communication Engineering with a focus on <br>
+> • 
+
+
+
+### Projects 📚
+
+
+
+
+### Technical Toolbox 🛠️ 
+
+<div align="center">
+  <pre style="display:inline-block; text-align:left; line-height:1.4em;">
+Python                 ██████████     C / C++               █████████░ 
+MATLAB                 ██████████     SQL                   ████████░░ 
+Git / GitHub / GitLab  █████████░     Docker                ███████░░░ 
+Wireshark / GNS3       █████████░     IDA Pro               ███████░░░ 
+ns-3                   ████████░░     LabVIEW / SPICE       ████████░░ 
+  </pre>
+</div>
+
+
+ 
+- OFDM / 3GPP NR, MIMO Beamforming, Link-Budget & Spectrum Management  
+- Turbo / LDPC / Polar Codes, 5G & 6G system-level analysis  
+- GNSS & LEO Satellite architectures, High-Throughput Satellite links  
+- Threat identification & network-packet analysis  
+- Cryptographic protocol design  
+- Pen-testing workflows (Nmap, Metasploit) 
+- Neural networks / Deep learning for PHY-layer tasks  
+- Reinforcement learning (e.g., PPO) for resource allocation  
+- Supervised & unsupervised modelling under non-terrestrial channels  
+
+
+### Languages 🌐
+**Mandarin:**
+<svg viewBox="0 0 100 6" width="200" height="6">
+  <rect width="100" height="6" fill="#D0DEE4" rx="3"/>
+  <rect width="100" height="6" fill="#3F708A" rx="3"/>
+</svg>&emsp;C2
+<br/>
+**English:**
+<svg viewBox="0 0 100 6" width="233" height="6">
+  <rect width="100" height="6" fill="#D0DEE4" rx="3"/>
+  <rect width="95"  height="6" fill="#3F708A" rx="3"/>
+</svg>C1
+<br/>
+**German:**
+<svg viewBox="0 0 100 6" width="228" height="6">
+  <rect width="100" height="6" fill="#D0DEE4" rx="3"/>
+  <rect width="80"  height="6" fill="#3F708A" rx="3"/>
+</svg>C1
+<br/>
+
+### Let’s Connect 📫
+<p align="center">
+  <a href="mailto:<chialeecc@gmail.com>" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+  <a href="https://steamcommunity.com/id/76561199487047339/"><img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge" alt="Steam"></a>
 </p>
 
-#### Scientific Computing :
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white" alt="MATLAB" />
-</p>
-
-## Languages 🌐
-- **Mandarin:** Native proficiency
-- **English:** Full professional proficiency
-- **German:** Limited working proficiency
-
-## Get in Touch 📫
-Feel free to reach out if you have any questions or just want to connect!
-
-
+<!-- Footer quote -->
+<p align="center"><em>“Engineering is the art of directing great sources of power by intelligent application of science.” – H. L. Callendar</em></p>
