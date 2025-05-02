@@ -23,7 +23,7 @@
 ---
 
 ### About Me 💫
-> M.Sc. in Electrical & Communication Engineering with a focus on <br>
+> M.Sc. in Electrical & Communication Engineering  <br>
 > • 
 
 
