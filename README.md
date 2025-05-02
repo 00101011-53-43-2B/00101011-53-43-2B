@@ -75,7 +75,7 @@ ns-3                   ████████░░     LabVIEW / SPICE       
 <svg viewBox="0 0 100 6" width="228" height="6">
   <rect width="100" height="6" fill="#D0DEE4" rx="3"/>
   <rect width="80"  height="6" fill="#3F708A" rx="3"/>
-</svg>C1
+</svg>B2
 <br/>
 
 ### Let’s Connect 📫
