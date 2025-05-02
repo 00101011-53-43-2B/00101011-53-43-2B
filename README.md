@@ -59,24 +59,13 @@ ns-3                   ████████░░     LabVIEW / SPICE       
 
 
 ### Languages 🌐
-**Mandarin:**
-<svg viewBox="0 0 100 6" width="200" height="6">
-  <rect width="100" height="6" fill="#D0DEE4" rx="3"/>
-  <rect width="100" height="6" fill="#3F708A" rx="3"/>
-</svg>&emsp;C2
-<br/>
-**English:**
-<svg viewBox="0 0 100 6" width="233" height="6">
-  <rect width="100" height="6" fill="#D0DEE4" rx="3"/>
-  <rect width="95"  height="6" fill="#3F708A" rx="3"/>
-</svg>C1
-<br/>
-**German:**
-<svg viewBox="0 0 100 6" width="228" height="6">
-  <rect width="100" height="6" fill="#D0DEE4" rx="3"/>
-  <rect width="80"  height="6" fill="#3F708A" rx="3"/>
-</svg>C1
-<br/>
+
+
+```text
+    Mandarin:  ██████████ C2 
+    English:   █████████░ C1 
+    German:    ███████░░░ B2
+```
 
 ### Let’s Connect 📫
 <p align="center">
