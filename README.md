@@ -4,20 +4,7 @@
 <h3 align="center"> Telecommunications and Cybersecurity Engineer | M.Sc. (E.E.)</h3>
 
 <p align="center">
-  <!-- English résumé -->
-  <a href="./ChiaLee_resume.pdf" target="_blank" style="margin-right: 10px;">
-    <img
-      src="https://img.shields.io/badge/Resume-PDF-blue?logo=adobeacrobatreader&logoColor=white&style=flat-square"
-      alt="Download résumé"
-    />
-  </a>
-  <!-- German Lebenslauf -->
-  <a href="./ChiaLee_Lebenslauf.pdf" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Lebenslauf-PDF-blue?logo=adobeacrobatreader&logoColor=white&style=flat-square"
-      alt="Download Lebenslauf"
-    />
-  </a>
+
 </p>
 
 ---
