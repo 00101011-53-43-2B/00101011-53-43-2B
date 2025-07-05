@@ -1,17 +1,21 @@
 <!-- ---------- HERO ---------- -->
 
 <h1 align="center"> Hi, I’m Chia</h1>
-<h3 align="center"> Telecommunications and Cybersecurity Engineer | M.Sc. (E.E.)</h3>
+<h3 align="center"> Telecommunications and Cybersecurity Engineer </h3>
 
 <p align="center">
 
 </p>
 
 ---
+<p align="center">
+<a href="Lebenslauf.pdf" target="_blank">
+     <img alt="View Resume" src="https://img.shields.io/badge/View%20Resume-333333?logo=adobeacrobatreader&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 ### About Me 💫
-> M.Sc. in Electrical & Communication Engineering  <br>
-> • 
+> M.Sc. in Electrical Engineering, Information Technology and Computer Engineering  <br>
+
 
 
 
