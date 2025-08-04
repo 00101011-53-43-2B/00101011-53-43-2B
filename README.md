@@ -61,8 +61,7 @@ ns-3                   ████████░░     LabVIEW / SPICE       
 ### Let’s Connect 📫
 <p align="center">
   <a href="mailto:<chialeecc@gmail.com>" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
-  <a href="https://steamcommunity.com/id/76561199487047339" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge"
+  <a href="https://steamcommunity.com/profiles/76561199487047339/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge"
          alt="Steam"> </a>
 </p>
 
