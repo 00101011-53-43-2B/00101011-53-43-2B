@@ -45,7 +45,7 @@
 <details open>
 <summary><strong>1. Coexistence Analysis of TN and NTN in FR3</strong> (Temporarily Private)</summary>
 <p align="center">
-  <img src="Coxistence_TN_NTN_in_FR3.pdf" width="40%" alt="FR3 Coexistence Architecture Diagram">
+  <img src="Coxistence_TN_NTN_in_FR3.png" width="40%" alt="FR3 Coexistence Architecture Diagram">
 </p>
 
 - MATLAB-based FR3 spectrum coexistence framework  
