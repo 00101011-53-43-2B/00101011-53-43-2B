@@ -30,7 +30,7 @@
 > - TN/NTN communications
 > - Secure network & protocol analysis
 
-> 🎮 Personal Projects: Game Systems Prototyping
+> 🎮 Personal Projects : Game Systems Prototyping
 
 <br>
 
@@ -42,11 +42,15 @@
 ---
 
 ### Projects 📚
+
 <details open>
-<summary><strong>1. Coexistence Analysis of TN and NTN in FR3</strong> (Temporarily Private)</summary>
+<summary><strong> Coexistence Analysis of TN and NTN in FR3</strong> (Temporarily Private)</summary>
+
+ <!--
 <p align="center">
-  <img src="Coxistence_TN_NTN_in_FR3.png" width="40%" alt="FR3 Coexistence Architecture Diagram">
+  <img src="Coxistence_TN_NTN_in_FR3.png" width="60%" alt="FR3 Coexistence Architecture Diagram">
 </p>
+-->
 
 - MATLAB-based FR3 spectrum coexistence framework  
 - WRC-23–aligned interference models  
@@ -55,11 +59,16 @@
 
 
 
+
 <details open>
-<summary><strong>2. Network Packet Analysis & Threat Profiling</strong> (In Progress)</summary>
+<summary><strong> Network Packet Analysis & Threat Profiling</strong> (In Progress)</summary>
+
+<!--
 <p align="center">
-  <img src="assets/network_packet_pipeline.svg" width="40%" alt="Network Packet Analysis Pipeline">
+  <img src="assets/network_packet_pipeline.svg" width="60%" alt="Network Packet Analysis Pipeline">
 </p>
+-->
+
 
 - Python toolkit for deep packet inspection across L2–L7  
 - Heuristic analysis for encrypted traffic + Suricata/Snort integration  
