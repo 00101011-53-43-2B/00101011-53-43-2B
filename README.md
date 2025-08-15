@@ -14,7 +14,7 @@
     alt="GitHub Stats" height="100" />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=00101011-53-43-2B&layout=compact&theme=radical"
-    alt="Top Languages" height="100" />
+    alt="Top Languages" height="110" />
 </p>
 
 <br>
