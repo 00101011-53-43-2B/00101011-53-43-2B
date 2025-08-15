@@ -8,8 +8,13 @@
 
 
 <br>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=00101011-53-43-2B&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00101011-53-43-2B&layout=compact&theme=radical)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=00101011-53-43-2B&show_icons=true&theme=radical"
+    alt="GitHub Stats" height="100" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=00101011-53-43-2B&layout=compact&theme=radical"
+    alt="Top Languages" height="100" />
 </p>
 
 <br>
