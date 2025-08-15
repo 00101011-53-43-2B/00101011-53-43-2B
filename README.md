@@ -14,7 +14,7 @@
     alt="GitHub Stats" height="100" />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=00101011-53-43-2B&layout=compact&theme=radical"
-    alt="Top Languages" height="110" />
+    alt="Top Languages" height="100" />
 </p>
 
 <br>
@@ -45,7 +45,7 @@
 <details open>
 <summary><strong>1. Coexistence: TN & NTN in FR3</strong> (Temporarily Private)</summary>
 <p align="center">
-  <img src="assets/fr3_coexistence_architecture.svg" width="90%" alt="FR3 Coexistence Architecture Diagram">
+  <img src="assets/fr3_coexistence_architecture.svg" width="40%" alt="FR3 Coexistence Architecture Diagram">
 </p>
 
 - MATLAB-based FR3 spectrum coexistence framework  
@@ -58,7 +58,7 @@
 <details open>
 <summary><strong>2. Network Packet Analysis & Threat Profiling</strong> (In Progress)</summary>
 <p align="center">
-  <img src="assets/network_packet_pipeline.svg" width="90%" alt="Network Packet Analysis Pipeline">
+  <img src="assets/network_packet_pipeline.svg" width="40%" alt="Network Packet Analysis Pipeline">
 </p>
 
 - Python toolkit for deep packet inspection across L2–L7  
