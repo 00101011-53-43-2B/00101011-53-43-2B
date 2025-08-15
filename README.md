@@ -1,69 +1,109 @@
-<!-- ---------- HERO ---------- -->
 
-<h1 align="center"> Hi, I’m Chia</h1>
-<h3 align="center"> Telecommunications and Cybersecurity Engineer </h3>
 
-<p align="center">
+<h3 align="center"> Hi, I’m Chia</h1>
 
-</p>
+
 
 ---
+
+
+<br>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=00101011-53-43-2B&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00101011-53-43-2B&layout=compact&theme=radical)
+</p>
+
+<br>
+
+---
+
+<br>
+
+### About Me 💫
+> 🎓 **M.Sc. in Electrical Engineering, Information Technology, and Computer Engineering**  
+
+> 🔬 I develop and analyse advanced systems spanning:  
+> - TN/NTN communications
+> - Secure network & protocol analysis
+
+> 🎮 Personal Projects: Game Systems Prototyping
+
+<br>
+
 <p align="center">
 <a href="Lebenslauf.pdf" target="_blank">
      <img alt="View Resume" src="https://img.shields.io/badge/View%20Resume-333333?logo=adobeacrobatreader&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-### About Me 💫
-> M.Sc. in Electrical Engineering, Information Technology and Computer Engineering  <br>
-
-
-
+---
 
 ### Projects 📚
+<details open>
+<summary><strong>1. Coexistence: TN & NTN in FR3</strong> (Temporarily Private)</summary>
+<p align="center">
+  <img src="assets/fr3_coexistence_architecture.svg" width="90%" alt="FR3 Coexistence Architecture Diagram">
+</p>
+
+- MATLAB-based FR3 spectrum coexistence framework  
+- WRC-23–aligned interference models  
+- Rule-based vs. PPO reinforcement learning approaches for spectrum access  
+</details>
 
 
 
+<details open>
+<summary><strong>2. Network Packet Analysis & Threat Profiling</strong> (In Progress)</summary>
+<p align="center">
+  <img src="assets/network_packet_pipeline.svg" width="90%" alt="Network Packet Analysis Pipeline">
+</p>
 
-### Technical Toolbox 🛠️ 
+- Python toolkit for deep packet inspection across L2–L7  
+- Heuristic analysis for encrypted traffic + Suricata/Snort integration  
+- Modular, protocol-agnostic analysis framework  
+</details>
 
-<div align="center">
-  <pre style="display:inline-block; text-align:left; line-height:1.4em;">
-Python                 ██████████     C / C++               █████████░ 
-MATLAB                 ██████████     SQL                   ████████░░ 
-Git / GitHub / GitLab  █████████░     Docker                ███████░░░ 
-Wireshark / GNS3       █████████░     IDA Pro               ███████░░░ 
-ns-3                   ████████░░     LabVIEW / SPICE       ████████░░ 
-  </pre>
-</div>
+---
+<br>
 
+### Capabilities & Toolbox 🛠
 
- 
-- OFDM / 3GPP NR, MIMO Beamforming, Link-Budget & Spectrum Management  
-- Turbo / LDPC / Polar Codes, 5G & 6G system-level analysis  
-- GNSS & LEO Satellite architectures, High-Throughput Satellite links  
-- Threat identification & network-packet analysis  
-- Cryptographic protocol design  
-- Pen-testing workflows (Nmap, Metasploit) 
-- Neural networks / Deep learning for PHY-layer tasks  
-- Reinforcement learning (e.g., PPO) for resource allocation  
-- Supervised & unsupervised modelling under non-terrestrial channels  
+| Domain                     | Tools & Methods                                                                                  |
+|----------------------------|--------------------------------------------------------------------------------------------------|
+| **Telecom & Satellite**    | OFDM • 3GPP NR • MIMO • Beamforming • Link-Budget • GNSS / LEO • 5G/6G analysis                  |
+| **CyberSecurity**         | Packet analysis • Threat detection • Crypto protocols • Pen-testing (Nmap, Metasploit)           |
+| **ML** | PPO-based RL • Deep learning for PHY optimization                                               |
+| **Systems Design**         | Game prototyping • Telemetry architectures • Unity • Digital art (Procreate)                     |
 
+<br>
+
+---
+
+<br>
 
 ### Languages 🌐
 
 ```text
-    Mandarin:  ██████████ C2 
-    English:   █████████░ C1 
-    German:    ███████░░░ B2
+    Mandarin:  ██████████ Native
+    English:   █████████░ Fluent
+    German:    ███████░░░ Good written and spoken skills
 ```
 
+<br>
+
+---
+
+<br>
 
 ### Let’s Connect 📫
+
+<br>
+
 <p align="center">
   <a href="mailto:<chialeecc@gmail.com>" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
   <a href="https://steamcommunity.com/profiles/76561199487047339/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=for-the-badge"
          alt="Steam"> </a>
 </p>
+
+<br>
 
 <!-- Footer quote -->
 <p align="center"><em>“Engineering is the art of directing great sources of power by intelligent application of science.” – H. L. Callendar</em></p>
