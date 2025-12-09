@@ -24,82 +24,61 @@
 <br>
 
 ### About Me 💫
-> 🎓 **M.Sc. in Electrical Engineering, Information Technology, and Computer Engineering**  
+> ⚙️ I leverage advanced ML techniques to design, model, and secure complex aerospace and terrestrial systems:
 
-> 🔬 I develop and analyse advanced systems spanning:  
-> - TN/NTN communications
-> - Secure network & protocol analysis
-
-> 🎮 Personal Projects : Game Systems Prototyping
+> 🛰️ Satellite & Space Systems: Engineering focus on orbital mechanics, LEO link budget analysis, and integrated TN-NTN system architecture design.
+> 🛡️ SIGINT & Spectrum Security: Applying professional expertise in RF Spectrum Operations for signal intelligence (SIGINT) and network protocol forensics.
+> 🧠 ML for Wireless Systems: Utilizing modern AI frameworks, including Reinforcement Learning, for dynamic resource allocation and optimization inTN-NTN integration environments.
 
 <br>
-
-<p align="center">
-<a href="Lebenslauf.pdf" target="_blank">
-     <img alt="View Resume" src="https://img.shields.io/badge/View%20Resume-333333?logo=adobeacrobatreader&logoColor=white&style=for-the-badge" /></a>
-</p>
 
 ---
 
 ### Projects 📚
 
-<details open>
-<summary><strong> Coexistence Analysis of TN and NTN in FR3</strong> (Temporarily Private)</summary>
+``<details open>
+``<summary><strong> Coexistence Analysis of TN and NTN in FR3</strong> (Temporarily Private)</summary>
 
- <!--
-<p align="center">
-  <img src="Coxistence_TN_NTN_in_FR3.png" width="60%" alt="FR3 Coexistence Architecture Diagram">
-</p>
--->
+`` <!--
+``<p align="center">
+``  <img src="Coxistence_TN_NTN_in_FR3.png" width="60%" alt="FR3 Coexistence Architecture Diagram">
+``</p>
+``-->
 
-- MATLAB-based FR3 spectrum coexistence framework  
-- WRC-23–aligned interference models  
-- Rule-based vs. PPO reinforcement learning approaches for spectrum access  
-</details>
-
-
+``- MATLAB-based FR3 spectrum coexistence framework  
+``- WRC-23–aligned interference models  
+``- Rule-based vs. PPO reinforcement learning approaches for spectrum access  
+``</details>
 
 
-<details open>
-<summary><strong> Network Packet Analysis & Threat Profiling</strong> (In Progress)</summary>
-
-<!--
-<p align="center">
-  <img src="assets/network_packet_pipeline.svg" width="60%" alt="Network Packet Analysis Pipeline">
-</p>
--->
 
 
-- Python toolkit for deep packet inspection across L2–L7  
-- Heuristic analysis for encrypted traffic + Suricata/Snort integration  
-- Modular, protocol-agnostic analysis framework  
-</details>
+``<details open>
+``<summary><strong> Network Packet Analysis & Threat Profiling</strong> (In Progress)</summary>
 
----
-<br>
+``<!--
+``<p align="center">
+``  <img src="assets/network_packet_pipeline.svg" width="60%" alt="Network Packet Analysis Pipeline">
+``</p>
+``-->
 
-### Capabilities & Toolbox 🛠
 
-| Domain                     | Tools & Methods                                                                                  |
-|----------------------------|--------------------------------------------------------------------------------------------------|
-| **Telecom & Satellite**    | OFDM • 3GPP NR • MIMO • Beamforming • Link-Budget • GNSS / LEO • 5G/6G analysis                  |
-| **CyberSecurity**         | Packet analysis • Threat detection • Crypto protocols • Pen-testing (Nmap, Metasploit)           |
-| **ML** | PPO-based RL • Deep learning for PHY optimization                                               |
-| **Systems Design**         | Game prototyping • Telemetry architectures • Unity • Digital art (Procreate)                     |
-
-<br>
+``- Python toolkit for deep packet inspection across L2–L7  
+``- Heuristic analysis for encrypted traffic + Suricata/Snort integration  
+``- Modular, protocol-agnostic analysis framework  
+``</details>
 
 ---
-
 <br>
 
-### Languages 🌐
+``### Capabilities & Toolbox 🛠
 
-```text
-    Mandarin:  ██████████ Native
-    English:   █████████░ Fluent
-    German:    ███████░░░ Good written and spoken skills
-```
+``| Domain                     | Tools & Methods                                                                                  |
+``|----------------------------|--------------------------------------------------------------------------------------------------|
+``| **Telecom & Satellite**    | OFDM • 3GPP NR • MIMO • Beamforming • Link-Budget • GNSS / LEO • 5G/6G analysis                  |
+``| **CyberSecurity**         | Packet analysis • Threat detection • Crypto protocols • Pen-testing (Nmap, Metasploit)           |
+``| **ML** | PPO-based RL • Deep learning for PHY optimization                                               |
+``| **Systems Design**         | Game prototyping • Telemetry architectures • Unity • Digital art (Procreate)                     |
 
 <br>
 
