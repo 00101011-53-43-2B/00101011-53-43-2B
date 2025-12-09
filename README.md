@@ -18,9 +18,9 @@
 ### About Me 💫
 > ⚙️ I leverage advanced ML techniques to design, model, and secure complex aerospace and terrestrial systems:<br>
 
-> 🛰️ Satellite & Space Systems: Engineering focus on orbital mechanics, LEO link budget analysis, and integrated TN-NTN system architecture design.<br>
-> 🛡️ SIGINT & Spectrum Security: Applying professional expertise in RF Spectrum Operations for signal intelligence (SIGINT) and network protocol forensics.<br>
-> 🧠 ML for Wireless Systems: Utilizing modern AI frameworks, including Reinforcement Learning, for dynamic resource allocation and optimization inTN-NTN integration environments.<br>
+> 🛰️ **Satellite & Space Systems:** Engineering focus on orbital mechanics, LEO link budget analysis, and integrated TN-NTN system architecture design.<br>
+> 🛡️ **SIGINT & Spectrum Security:** Applying professional expertise in RF Spectrum Operations for signal intelligence (SIGINT) and network protocol forensics.<br>
+> 🧠 **ML for Wireless Systems:** Utilizing modern AI frameworks, including Reinforcement Learning, for dynamic resource allocation and optimization inTN-NTN integration environments.<br>
 
 <br>
 
